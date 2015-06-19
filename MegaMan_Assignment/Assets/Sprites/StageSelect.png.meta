@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: ea16edcb3b0477d42b50de531374063a
+timeCreated: 1434372401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StageSelect_0
+    21300002: StageSelect_1
+    21300004: StageSelect_2
+    21300006: StageSelect_3
+    21300008: StageSelect_4
+    21300010: StageSelect_5
+    21300012: StageSelect_6
+    21300014: StageSelect_7
+    21300016: StageSelect_8
+    21300018: StageSelect_9
+    21300020: StageSelect_10
+    21300022: StageSelect_11
+    21300024: StageSelect_12
+    21300026: StageSelect_13
+    21300028: StageSelect_14
+    21300030: StageSelect_15
+    21300032: StageSelect_16
+    21300034: StageSelect_17
+    21300036: StageSelect_18
+    21300038: StageSelect_19
+    21300040: StageSelect_20
+    21300042: StageSelect_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StageSelect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 248
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 191
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 191
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 150
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 149
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 149
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 116
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 83
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 82
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
